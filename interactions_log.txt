@@ -1,0 +1,9 @@
+Você: Oi
+Aia: Oi! Como posso te ajudar?
+
+Você: quem é voce?
+Aia: Eu sou a Aia! Eu sou um chatbot criado pelo Junin!
+
+Você: o que voce faz?
+Aia: Eu sou a Aia! Eu sou um chatbot criado pelo Junin!
+
