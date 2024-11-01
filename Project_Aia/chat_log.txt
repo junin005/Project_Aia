@@ -1,0 +1,33 @@
+2024-11-01 12:46:44.420152
+User: Oi
+Aia: Ocorreu um erro: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+
+2024-11-01 12:48:06.025494
+User: Oi
+Aia: Prazer em te conhecer! Sou a Aia, criada pelo Junin.
+
+2024-11-01 12:50:01.427622
+User: Oi
+Aia: Prazer em te conhecer! Sou a Aia, criada pelo Junin.
+
+2024-11-01 12:52:36.607849
+User: oi
+Aia: Prazer em te conhecer! Sou a Aia, criada pelo Junin.
+
+2024-11-01 12:52:40.870849
+User: oi
+Aia: Prazer em te conhecer! Sou a Aia, criada pelo Junin.
+
+2024-11-01 12:55:26.559713
+User: oi
+Aia: Prazer em te conhecer! Sou a Aia, criada pelo Junin.
+
